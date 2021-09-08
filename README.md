@@ -1,2 +1,2 @@
-# countdown-timer
-A simple Javascript countdown timer
+# Some JS projects
+Some (not so complicated) projects in vanilla JS
